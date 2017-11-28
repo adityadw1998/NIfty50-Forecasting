@@ -1,1 +1,1 @@
-# NIfty50-Forecasting
+# Nifty50-Forecasting
